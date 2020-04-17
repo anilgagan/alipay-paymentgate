@@ -1,0 +1,70 @@
+https://globalprod.alipay.com/order/integrationGuide.htm
+https://github.com/bitmash/alipay-api-php/blob/master/Alipay.php
+https://intl.alipay.com/doc/app/sandbox
+https://intl.alipay.com/doc/app/sandbox#downloading-the-alipay-sandbox-app
+https://memberprod.alipay.com/account/reg/regComplete.htm?isPost=true
+https://global.alipay.com/doc/app/test
+
+
+<?php
+//-----------------------web--------------------------------------------------
+https://intl.alipay.com/open/doc.htm
+https://global.alipay.com/doc/web/demo_code
+https://global.alipay.com/doc/web/sandbox
+https://global.alipay.com/doc/web/calls
+https://myprogrammingnotes.com/alipay-payment-gateway-integration.html
+//--------------------------web------------------------------------------------
+
+
+//********************Start :  SIGNUP+SIGNIN+VIDEOS*****************************************************
+
+SIGNUP https://global.alipay.com/merchant/portal/account/register
+LOGIN https://global.alipay.com/ilogin/account_login.htm
+Video : https://gw.alipayobjects.com/os/rmsportal/TaGtFGCrbLhFruUjgFqg.mp4
+
+Credential : anilkumar@appypiellp.com
+Password : Anil@123
+//********************End :  SIGNUP+SIGNIN+VIDEOS*******************************************************
+https://github.com/HyunSeob/alipay.js/blob/master/README.md
+https://github.com/chloerei/alipay/blob/master/doc/quick_start_en.md
+https://www.npmjs.com/package/alipay-nodejs
+
+
+//********************HOW INTEGRATED WITH NODE JS*******************************************************
+https://www.npmjs.com/package/alipay-node-sdk
+https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52
+https://repl.it/@thellmei/Alipay-Node-API
+
+
+//********************HOW INTEGRATED WITH NODE JS********************************************************
+
+//---------------------------------git hub------------------------------------
+https://github.com/idcmsbeta/alipaySample
+https://github.com/yongjun925/meteor-alipay-direct-pay-example
+//---------------------------------git hub------------------------------------
+https://npm.taobao.org/package/alipay-koa-sdk
+
+
+https://www.youtube.com/watch?v=subN6pOuYas
+https://github.com/idcmsbeta/alipaySample
+
+https://repl.it/repls/SubduedDisgustingVolume
+https://gw.alipayobjects.com/os/rmsportal/TaGtFGCrbLhFruUjgFqg.mp4
+https://intl.alipay.com/doc/common/sandbox#ce58fbff
+https://global.alipay.com/doc/autodebit/introduction
+https://global.alipay.com/doc/autodebit/introduction
+https://isandbox.alipaydev.com/user/intlAccountDetails.htm
+https://isandbox.alipaydev.com/user/intlAccountDetails.htm
+https://intl.alipay.com/doc/merchantqrcode/sandbox#bf15939b
+
+https://intl.alipay.com/doc/app_hk/download
+https://globalprod.alipay.com/mhome/security-upgrade
+
+https://www.youtube.com/watch?v=subN6pOuYas
+https://github.com/idcmsbeta/alipaySample
+https://isandbox.alipaydev.com/user/intlAccountDetails.htm
+http://wiki.whmcsglobalservices.com/index.php/Alipay_Cross-Border_Payment_Gateway_For_WHMCS
+
+
+-----------------LOgin-------------
+https://docs.checkout.com/docs/alipay
