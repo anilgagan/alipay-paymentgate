@@ -22,8 +22,7 @@ SIGNUP https://global.alipay.com/merchant/portal/account/register
 LOGIN https://global.alipay.com/ilogin/account_login.htm
 Video : https://gw.alipayobjects.com/os/rmsportal/TaGtFGCrbLhFruUjgFqg.mp4
 
-Credential : anilkumar@appypiellp.com
-Password : Anil@123
+
 //********************End :  SIGNUP+SIGNIN+VIDEOS*******************************************************
 https://github.com/HyunSeob/alipay.js/blob/master/README.md
 https://github.com/chloerei/alipay/blob/master/doc/quick_start_en.md
