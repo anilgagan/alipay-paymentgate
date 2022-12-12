@@ -13,7 +13,7 @@
     "@types/node": "^13.11.0",
     "@types/nodemon": "^1.19.0",
     "alipay-nodejs": "0.0.13",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-build-query": "^0.7.0",
     "node": "^13.12.0",
     "nodemon": "^2.0.2",
